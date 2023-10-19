@@ -1,5 +1,4 @@
-<!-- <h1 align="center">Hi there, I'm <a href="https://" target="_blank">Aleksandr</a>👋</h1>  -->
-<h1 align="center">Hi there, I'm Aleksandr 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://aleksandr-murashov.netlify.app" target="_blank">Aleksandr</a>👋</h1>
 <h3 align="center">Frontend Developer, M.S. (Photonics)</h3>
 
 <br/>
@@ -12,7 +11,7 @@
 
 - 🌍 I speak **Russian** (native), **English** (B2)
 
-- 📫 Feel free to contact me: &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/aleksandr-murashov) &nbsp; [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=microsoftoutlook&logoColor=0078D4)](mailto:aleksandr.murashov@outlook.com)
+- 📫 Feel free to contact me: &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f8fa?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/aleksandr-murashov) &nbsp; [![Email](https://img.shields.io/badge/-Email-f6f8fa?style=flat&logo=microsoftoutlook&logoColor=0078D4)](mailto:aleksandr.murashov@outlook.com) &nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-f6f8fa?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/ZaprostoNeprosto)
 
 <br/>
 
@@ -62,10 +61,10 @@
       <td align="center"><a href='https://zaprostoneprosto.github.io/JetSkisOnlineStore/'>✔️</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com/'><s>Personal portfolio website</s></a></td>
+      <td><a href='https://github.com/ZaprostoNeprosto/portfolio-project'>Personal portfolio website</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>One-page portfolio website.</td>
-      <td align="center">coming soon</td>
+      <td align="center"><a href='https://aleksandr-murashov.netlify.app'>✔️</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ZaprostoNeprosto/landing-mogo-company'>Landing for the MoGo company</a></td>
@@ -86,23 +85,23 @@
 <br/>
 
 ## Toolkit
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
-![Testing Library](https://img.shields.io/badge/-Testing_Library-05122A?style=flat&logo=testinglibrary&logoColor=E33332)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-f6f8fa?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-f6f8fa?style=flat&logo=TypeScript&logoColor=3178C6)&nbsp;
+![React](https://img.shields.io/badge/-React-f6f8fa?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-f6f8fa?style=flat&logo=Redux&logoColor=764ABC)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-f6f8fa?style=flat&logo=Jest&logoColor=C21325)&nbsp;
+![Testing Library](https://img.shields.io/badge/-Testing_Library-f6f8fa?style=flat&logo=testinglibrary&logoColor=E33332)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-f6f8fa?style=flat&logo=Webpack&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-f6f8fa?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=CC6699)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=F24E1E)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint&logoColor=4B32C3)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-f6f8fa?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-f6f8fa?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-f6f8fa?style=flat&logo=sass&logoColor=CC6699)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-f6f8fa?style=flat&logo=Figma&logoColor=F24E1E)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-f6f8fa?style=flat&logo=eslint&logoColor=4B32C3)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-f6f8fa?style=flat&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-f6f8fa?style=flat&logo=github&logoColor=181717)&nbsp;
 
 
 ## Statistics
