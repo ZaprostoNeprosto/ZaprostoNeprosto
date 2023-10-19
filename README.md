@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://aleksandr-murashov.netlify.app" target="_blank">Aleksandr</a>👋</h1>
-<h3 align="center">Frontend Developer, M.S. (Photonics)</h3>
+<h1 align="center" style="color:inherit">Hi there, I'm <a href="https://aleksandr-murashov.netlify.app" target="_blank">Aleksandr</a>👋</h1>
+<h3 align="center" style="color:inherit">Frontend Developer, M.S. (Photonics)</h3>
 
 <br/>
 
