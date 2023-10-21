@@ -37,34 +37,40 @@
       <td align="center"><a href='https://t.me/MelytecSPB_bot/'>✔️</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com/ZaprostoNeprosto/frontend-pg-project'>Web App "My Playground"</a></td>
+      <td><a href='https://github.com/ZaprostoNeprosto/frontend-pg-project'>SPA "My Playground"</a></td>
       <td>TypeScript, React, Redux, SCSS, HTML, Jest</td>
       <td>News portal with authorization, profile system, comments, article ratings, notification system and... specific design. The project is still in development.</td>
       <td align="center"><a href='https://my-playground-project.netlify.app/'>✔️</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com'><s>Web App "FoodHub"</s></a></td>
+      <td><a href='https://github.com/ZaprostoNeprosto/producthub-store'>SPA "ProductHub"</a></td>
       <td>JavaScript, React, Redux, CSS, HTML</td>
       <td>Online grocery store.</td>
-      <td align="center">coming soon</td>
+      <td align="center"><a href='https://producthub-store.netlify.app/'>✔️</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com/'><s>Backend for the "FoodHub" project</s></a></td>
+      <td><a href='https://github.com/ZaprostoNeprosto/producthub-store-server'>Backend for the "ProductHub" project</a></td>
       <td>Node.js, Express</td>
-      <td>"Fake" backend. Returns data from the JSON product catalog upon requests from "FoodHub".</td>
-      <td align="center">coming soon</td>
+      <td>Returns data from the JSON product catalog upon requests from "ProductHub".</td>
+      <td align="center"><a href='https://producthub-store-server.vercel.app'>⚙</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com/ZaprostoNeprosto/JetSkisOnlineStore'>Online store "Jet Skis Online Store"</a></td>
+      <td><a href='https://github.com/ZaprostoNeprosto/JetSkisOnlineStore'>Multi-page "Jet Skis Online Store"</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>Jet ski store: main page, list of products and filters, product page. Responsive layout based on the Figma design. </td>
       <td align="center"><a href='https://zaprostoneprosto.github.io/JetSkisOnlineStore/'>✔️</a></td>
     </tr>
     <tr>
-      <td><a href='https://github.com/ZaprostoNeprosto/portfolio-project'>Personal portfolio website</a></td>
+      <td><a href='https://github.com/ZaprostoNeprosto/portfolio-project'>Personal "Portfolio"</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>One-page portfolio website.</td>
       <td align="center"><a href='https://aleksandr-murashov.netlify.app'>✔️</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/ZaprostoNeprosto/contact-form-server'>Backend for the "Portfolio" project</a></td>
+      <td>Node.js, Express</td>
+      <td>A server that processes data from the portfolio site’s feedback form. Sends the form data by email.</td>
+      <td align="center"><a href='https://con-form-server.vercel.app/'>⚙</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/ZaprostoNeprosto/landing-mogo-company'>Landing for the MoGo company</a></td>
