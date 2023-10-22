@@ -38,13 +38,13 @@
     </tr>
     <tr>
       <td><a href='https://github.com/ZaprostoNeprosto/frontend-pg-project'>SPA "My Playground"</a></td>
-      <td>TypeScript, React, Redux toolkit, SCSS, HTML, Jest, Storybook, CI (GitHub), JSON Server</td>
+      <td>TypeScript, React, Redux Toolkit, SCSS, HTML, Jest, Storybook, CI (GitHub), JSON Server</td>
       <td>News portal with authorization, profile system, comments, article ratings, notification system and... specific design. <i>Desktop mode only for now.</i> The project is still under development 🛠️.</td>
       <td align="center"><a href='https://my-playground-project.netlify.app'>✔️</a></td>
     </tr>
     <tr>
       <td><a href='https://github.com/ZaprostoNeprosto/producthub-store'>SPA "ProductHub"</a></td>
-      <td>JavaScript, React, Redux toolkit, CSS, HTML</td>
+      <td>JavaScript, React, Redux Toolkit, CSS, HTML</td>
       <td>Online grocery store. The project features the capability to add products to the cart, provide detailed product descriptions, light and dark themes, and adaptive display for both mobile and desktop devices.</td>
       <td align="center"><a href='https://producthub-store.netlify.app'>✔️</a></td>
     </tr>
