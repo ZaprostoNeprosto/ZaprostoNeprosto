@@ -7,8 +7,6 @@
 
 <br/>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 🌍 I speak **Russian** (native), **English** (B2)
 
 - 📫 Feel free to contact me: &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f8fa?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/aleksandr-murashov) &nbsp; [![Email](https://img.shields.io/badge/-Email-f6f8fa?style=flat&logo=microsoftoutlook&logoColor=0078D4)](mailto:aleksandr.murashov@outlook.com) &nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-f6f8fa?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/ZaprostoNeprosto)
@@ -91,8 +89,8 @@
 <br/>
 
 ## Toolkit
-![JavaScript](https://img.shields.io/badge/-JavaScript-f6f8fa?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-f6f8fa?style=flat&logo=TypeScript&logoColor=3178C6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-f6f8fa?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-f6f8fa?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
 ![React](https://img.shields.io/badge/-React-f6f8fa?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-f6f8fa?style=flat&logo=Redux&logoColor=764ABC)&nbsp;
@@ -108,9 +106,6 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-f6f8fa?style=flat&logo=eslint&logoColor=4B32C3)&nbsp;
 ![Stylelint](https://img.shields.io/badge/-Stylelint-f6f8fa?style=flat&logo=Stylelint&logoColor=263238)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-f6f8fa?style=flat&logo=prettier&logoColor=F7B93E)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-f6f8fa?style=flat&logo=git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-f6f8fa?style=flat&logo=github&logoColor=181717)&nbsp;
 
 
 ## Statistics
